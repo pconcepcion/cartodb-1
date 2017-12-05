@@ -350,14 +350,7 @@
     "cartodb.js": {
       "version": "4.0.0-alpha.zera",
       "from": "cartodb/cartodb.js#1857-add-webpack",
-      "resolved": "git://github.com/cartodb/cartodb.js.git#23f0817cf9dfdf0175f8622b4dec391a006339b5",
-      "dependencies": {
-        "camshaft-reference": {
-          "version": "0.33.4",
-          "from": "camshaft-reference@0.33.4",
-          "resolved": "https://registry.npmjs.org/camshaft-reference/-/camshaft-reference-0.33.4.tgz"
-        }
-      }
+      "resolved": "git://github.com/cartodb/cartodb.js.git#aa8e871b1fbdf3505661e41f55df6631537386da"
     },
     "center-align": {
       "version": "0.1.3",
