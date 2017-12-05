@@ -331,9 +331,9 @@
       "resolved": "https://registry.npmjs.org/cartocolor/-/cartocolor-4.0.0.tgz"
     },
     "cartodb-deep-insights.js": {
-      "version": "0.4.20",
-      "from": "cartodb/deep-insights.js#v0.4.20",
-      "resolved": "git://github.com/cartodb/deep-insights.js.git#946aff57fc1933d63c223ce81f69fe5fd6a77959",
+      "version": "0.4.8",
+      "from": "cartodb/deep-insights.js#remove-wax",
+      "resolved": "git://github.com/cartodb/deep-insights.js.git#2688bd19572fa884179ed2b3832a4dbfbd8f870d",
       "dependencies": {
         "node-polyglot": {
           "version": "2.2.2",
@@ -348,9 +348,16 @@
       "resolved": "https://registry.npmjs.org/cartodb-pecan/-/cartodb-pecan-0.2.0.tgz"
     },
     "cartodb.js": {
-      "version": "4.0.0-alpha.31",
-      "from": "cartodb/cartodb.js#v4.0.0-alpha.31",
-      "resolved": "git://github.com/cartodb/cartodb.js.git#8abacc595a048b51ab24a8e6b77d6ec6b12f49ce"
+      "version": "4.0.0-alpha.zera",
+      "from": "cartodb/cartodb.js#1857-add-webpack",
+      "resolved": "git://github.com/cartodb/cartodb.js.git#23f0817cf9dfdf0175f8622b4dec391a006339b5",
+      "dependencies": {
+        "camshaft-reference": {
+          "version": "0.33.4",
+          "from": "camshaft-reference@0.33.4",
+          "resolved": "https://registry.npmjs.org/camshaft-reference/-/camshaft-reference-0.33.4.tgz"
+        }
+      }
     },
     "center-align": {
       "version": "0.1.3",
