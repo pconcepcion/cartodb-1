@@ -2265,9 +2265,15 @@
       "resolved": "https://registry.npmjs.org/typedarray/-/typedarray-0.0.6.tgz"
     },
     "uglify-js": {
+<<<<<<< HEAD
       "version": "3.2.2",
       "from": "uglify-js@>=3.2.0 <3.3.0",
       "resolved": "https://registry.npmjs.org/uglify-js/-/uglify-js-3.2.2.tgz",
+=======
+      "version": "3.2.1",
+      "from": "uglify-js@>=3.2.0 <3.3.0",
+      "resolved": "https://registry.npmjs.org/uglify-js/-/uglify-js-3.2.1.tgz",
+>>>>>>> Freeze deps
       "dependencies": {
         "source-map": {
           "version": "0.6.1",
