@@ -350,7 +350,7 @@
     "cartodb.js": {
       "version": "4.0.0-alpha.zera",
       "from": "cartodb/cartodb.js#1857-add-webpack",
-      "resolved": "git://github.com/cartodb/cartodb.js.git#6fb5119d770baa0eec0224ae4d6da8b85e862e60"
+      "resolved": "git://github.com/cartodb/cartodb.js.git#a216aac31d74ea2336ec1f782cedccb8c0938582"
     },
     "center-align": {
       "version": "0.1.3",
