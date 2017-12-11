@@ -331,9 +331,9 @@
       "resolved": "https://registry.npmjs.org/cartocolor/-/cartocolor-4.0.0.tgz"
     },
     "cartodb-deep-insights.js": {
-      "version": "0.4.8",
+      "version": "0.4.20",
       "from": "cartodb/deep-insights.js#remove-wax",
-      "resolved": "git://github.com/cartodb/deep-insights.js.git#2688bd19572fa884179ed2b3832a4dbfbd8f870d",
+      "resolved": "git://github.com/cartodb/deep-insights.js.git#baab3c829425f2c07570f2195f775a7c198e16d7",
       "dependencies": {
         "node-polyglot": {
           "version": "2.2.2",
@@ -349,8 +349,8 @@
     },
     "cartodb.js": {
       "version": "4.0.0-alpha.zera",
-      "from": "cartodb/cartodb.js#1857-add-webpack",
-      "resolved": "git://github.com/cartodb/cartodb.js.git#a216aac31d74ea2336ec1f782cedccb8c0938582"
+      "from": "cartodb/cartodb.js#wax-webpack",
+      "resolved": "git://github.com/cartodb/cartodb.js.git#4e8f3f5eebda0760bd033e45800ef874741248f5"
     },
     "center-align": {
       "version": "0.1.3",
@@ -2265,15 +2265,9 @@
       "resolved": "https://registry.npmjs.org/typedarray/-/typedarray-0.0.6.tgz"
     },
     "uglify-js": {
-<<<<<<< HEAD
       "version": "3.2.2",
       "from": "uglify-js@>=3.2.0 <3.3.0",
       "resolved": "https://registry.npmjs.org/uglify-js/-/uglify-js-3.2.2.tgz",
-=======
-      "version": "3.2.1",
-      "from": "uglify-js@>=3.2.0 <3.3.0",
-      "resolved": "https://registry.npmjs.org/uglify-js/-/uglify-js-3.2.1.tgz",
->>>>>>> Freeze deps
       "dependencies": {
         "source-map": {
           "version": "0.6.1",
