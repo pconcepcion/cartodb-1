@@ -350,7 +350,7 @@
     "cartodb.js": {
       "version": "4.0.0-alpha.zera",
       "from": "cartodb/cartodb.js#wax-webpack",
-      "resolved": "git://github.com/cartodb/cartodb.js.git#4e8f3f5eebda0760bd033e45800ef874741248f5"
+      "resolved": "git://github.com/cartodb/cartodb.js.git#ea422031891e314afd3108288db6b03dcb2cd6c4"
     },
     "center-align": {
       "version": "0.1.3",
