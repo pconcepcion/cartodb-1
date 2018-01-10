@@ -1,6 +1,6 @@
 {
   "name": "cartodb-ui",
-  "version": "4.10.167",
+  "version": "4.10.167.subnavstyles",
   "description": "CARTO UI frontend",
   "repository": {
     "type": "git",
@@ -61,7 +61,7 @@
     "bluebird": "3.5.0",
     "brfs": "^1.4.3",
     "browserify-resolutions": "1.1.0",
-    "cartoassets": "CartoDB/CartoAssets#master",
+    "cartoassets": "CartoDB/CartoAssets#fix-subnav-styles",
     "colors": "1.1.2",
     "csswring": "^3.0.5",
     "eslint": "~4.8.0",
