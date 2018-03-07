@@ -383,8 +383,8 @@
     },
     "cartodb.js": {
       "version": "4.0.0-beta.33",
-      "from": "cartodb/cartodb.js#v4.0.0-beta.33",
-      "resolved": "git://github.com/cartodb/cartodb.js.git#2348c2e4644210ab9004476bce81767c463d2a8a"
+      "from": "cartodb/cartodb.js#support-1368-fix-category-tostring",
+      "resolved": "git://github.com/cartodb/cartodb.js.git#ab143481e63dd840501e31e580628d13fb110c5c"
     },
     "center-align": {
       "version": "0.1.3",
@@ -460,9 +460,9 @@
       }
     },
     "clean-css": {
-      "version": "4.1.10",
+      "version": "4.1.11",
       "from": "clean-css@>=4.1.0 <4.2.0",
-      "resolved": "https://registry.npmjs.org/clean-css/-/clean-css-4.1.10.tgz"
+      "resolved": "https://registry.npmjs.org/clean-css/-/clean-css-4.1.11.tgz"
     },
     "clip-path-polygon": {
       "version": "0.1.12",
